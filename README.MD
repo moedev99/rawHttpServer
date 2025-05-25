@@ -43,3 +43,6 @@ Requests to any other paths will respond with a `404 Not Found` error.
 ```bash
 git clone https://github.com/yourusername/simple-httpserver.git
 cd simple-httpserver
+mvn clean package
+java -cp target/simpleHttpServer-1.0-SNAPSHOT.jar com.httpServer.http.SimpleHttpServer
+

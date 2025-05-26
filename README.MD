@@ -11,7 +11,6 @@ It handles basic GET and POST requests, serves static files, and includes a cool
 - Handle **GET** requests
 - Handle **POST** requests
 - Serve static files (e.g., HTML, CSS, JS)
-- [Mention your cool feature here briefly]
 
 ---
 

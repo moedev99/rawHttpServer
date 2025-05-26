@@ -16,7 +16,7 @@ It handles basic GET and POST requests, serves static files, and includes a cool
 
 ## Endpoints
 
-Your simple HTTP server supports the following endpoints:
+simple HTTP server supports the following endpoints:
 
 | Method | Path         | Description                              |
 |--------|--------------|----------------------------------------|
